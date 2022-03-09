@@ -1,4 +1,4 @@
-import "./App.css";
+import "./styles/main.scss";
 import GeneratePage from "./components/generate-page";
 
 function App() {
